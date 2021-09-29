@@ -1,0 +1,13 @@
+Time the script was executed:,2021-09-29 12:02:11.935871,Execution time (sec):,15.0016002655029,status:,Error: start must be lover then end
+Time the script was executed:,2021-09-29 12:02:57.581514,Execution time (sec):,3.08661842346191,status:,Error: start must be lover then end
+Time the script was executed:,2021-09-29 12:31:14.725455,Execution time (sec):,5.24311757087708,status:,success
+Time the script was executed:,2021-09-29 12:50:25.168002,Execution time (sec):,2.39042210578918,status:,Error: start must be lover then end
+Time the script was executed:,2021-09-29 12:50:26.071848,Execution time (sec):,0.903336524963379,status:,Error: start must be lover then end
+Time the script was executed:,2021-09-29 12:50:26.976081,Execution time (sec):,0.90398120880127,status:,Error: start must be lover then end
+Time the script was executed:,2021-09-29 12:50:27.968810,Execution time (sec):,0.992508888244629,status:,Error: start must be lover then end
+Time the script was executed:,2021-09-29 12:50:30.120119,Execution time (sec):,2.1510705947876,status:,success
+Time the script was executed:,2021-09-29 12:51:16.526512,Execution time (sec):,4.30151510238647,status:,Error: there was unexpected error (like exit code 130 or 137 (interrupted by signal 2 or 9: SIGKILL)
+Time the script was executed:;2021-09-29 12:53:10.596883;Execution time (sec):;4.34159779548645;status:;Error: there was unexpected error (like exit code 130 or                                             137 (interrupted by signal 2 or 9: SIGKILL)
+Time the script was executed:;2021-09-29 13:03:46.011189;Execution time (sec):;9.651436567306519;status:;success
+Time the script was executed:;2021-09-29 13:03:48.836731;Execution time (sec):;2.821753978729248;status:;success
+Time the script was executed:;2021-09-29 13:03:54.926014;Execution time (sec):;6.087167263031006;status:;success
